@@ -2,6 +2,7 @@
 
 require("class/database.php");
 require_once("template/header.php");
+require_once("template/sidebar.php");
 require_once("class/form.php");
 
  class Main{
